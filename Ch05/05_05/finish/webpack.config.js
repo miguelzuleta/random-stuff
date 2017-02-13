@@ -10,6 +10,9 @@ module.exports = {
         contentBase: './dist',
         port: 3000
     },
+    node: {
+        fs: 'empty'
+    },
     module: {
         loaders: [
             {

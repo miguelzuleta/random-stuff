@@ -1,10 +1,53 @@
-[{"id":1,"first_name":"Roger","last_name":"White","hex":"#44d"},
-{"id":2,"first_name":"Elizabeth","last_name":"Bell","hex":"#86b"},
-{"id":3,"first_name":"Wayne","last_name":"Matthews","hex":"#cee"},
-{"id":4,"first_name":"Amy","last_name":"Hall","hex":"#c7a"},
-{"id":5,"first_name":"Brandon","last_name":"Banks","hex":"#0cf"},
-{"id":6,"first_name":"Sean","last_name":"Tucker","hex":"#226"},
-{"id":7,"first_name":"Beverly","last_name":"Griffin","hex":"#86b"},
-{"id":8,"first_name":"Billy","last_name":"Reynolds","hex":"#6ac"},
-{"id":9,"first_name":"Teresa","last_name":"James","hex":"#64a"},
-{"id":10,"first_name":"Irene","last_name":"Lynch","hex":"#333"}]
+[
+	{
+	  "id": 1,
+	  "first_name": "Justin",
+	  "last_name": "Rose",
+	  "hex": "#4bbb18"
+	}, {
+	  "id": 2,
+	  "first_name": "Timothy",
+	  "last_name": "Burton",
+	  "hex": "#feda16"
+	}, {
+	  "id": 3,
+	  "first_name": "Andrew",
+	  "last_name": "Dunn",
+	  "hex": "#603555"
+	}, {
+	  "id": 4,
+	  "first_name": "Lori",
+	  "last_name": "Ross",
+	  "hex": "#859b2f"
+	}, {
+	  "id": 5,
+	  "first_name": "Joshua",
+	  "last_name": "Greene",
+	  "hex": "#2d0956"
+	}, {
+	  "id": 6,
+	  "first_name": "Donna",
+	  "last_name": "Williamson",
+	  "hex": "#f2dbeb"
+	}, {
+	  "id": 7,
+	  "first_name": "Lois",
+	  "last_name": "Lee",
+	  "hex": "#e8c09a"
+	}, {
+	  "id": 8,
+	  "first_name": "Laura",
+	  "last_name": "Knight",
+	  "hex": "#e3d0b7"
+	}, {
+	  "id": 9,
+	  "first_name": "Christine",
+	  "last_name": "Kennedy",
+	  "hex": "#ba4c6f"
+	}, {
+	  "id": 10,
+	  "first_name": "Bobby",
+	  "last_name": "Freeman",
+	  "hex": "#5a7538"
+	}
+]
