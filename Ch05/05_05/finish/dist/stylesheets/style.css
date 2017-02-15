@@ -4,6 +4,18 @@ html, body {
     margin: 0;
 }
 
+.meh {
+    color: blue;
+}
+
+.yadda {
+    color: red;
+}
+
+.gufita {
+    color: orange;
+}
+
 
 .app {
     position: relative;

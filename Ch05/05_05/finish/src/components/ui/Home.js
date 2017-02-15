@@ -10,3 +10,6 @@ const Home = () => (
 )
 
 export default Home
+
+// http://demo.patternlab.io/
+// atomic react pattern library
